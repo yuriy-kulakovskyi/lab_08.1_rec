@@ -1,0 +1,18 @@
+# ninja log v6
+0	154	1730185738110092462	CMakeFiles/PR8_1.dir/src/h.cpp.o	5ae598179b2ae5ca
+1	247	1730185738110352741	CMakeFiles/PR8_1.dir/src/main.cpp.o	51ef5b0249c8521f
+248	274	1730185738357374567	PR8_1	41e19bcfd5f26650
+14	361	1730186201495528816	CMakeFiles/PR8_1.dir/src/h.cpp.o	5ae598179b2ae5ca
+16	440	1730186201497207314	CMakeFiles/PR8_1.dir/src/main.cpp.o	51ef5b0249c8521f
+440	591	1730186201921487207	PR8_1	41e19bcfd5f26650
+4	373	1730186470119348713	CMakeFiles/PR8_1.dir/src/h.cpp.o	5ae598179b2ae5ca
+373	464	1730186470487897143	PR8_1	41e19bcfd5f26650
+3	337	1730186672902901004	CMakeFiles/PR8_1_tests.dir/src/h.cpp.o	1510e6c7bbef9ef0
+3	656	1730186672902771760	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	9f27fea9ed8e0e24
+3	682	1730186672903018415	CMakeFiles/PR8_1_tests.dir/tests/test_h.cpp.o	8e3a1fd438898c65
+3	1720	1730186672902471940	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	6b2d2e2487d6b3c
+1720	1756	1730186674619665198	lib/libgtest.a	b51b69e6de22023b
+1756	1773	1730186674656046817	lib/libgtest_main.a	ddd85a377c936fa9
+1773	3231	1730186676128614404	PR8_1_tests	dfd2cc80f0615010
+1773	3231	1730186676128614404	PR8_1_tests[1]_tests.cmake	dfd2cc80f0615010
+1773	3231	1730186676128614404	/Users/yura_kulakovskyi/Documents/C++/AP/PR8/PR8_1_rec/cmake-build-debug/PR8_1_tests[1]_tests.cmake	dfd2cc80f0615010
